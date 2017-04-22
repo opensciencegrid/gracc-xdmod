@@ -1,0 +1,2 @@
+*/20 * * * * root /usr/bin/gratia-xdmod -s 900
+
